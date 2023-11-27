@@ -13,6 +13,6 @@ def countdown_with_sleep(number):
         number -= 1
     print('HAPPY NEW YEAR!')
 
-# Example usage:
+
 # countdown(10)  # Will print without a delay
 countdown_with_sleep(10)  # Will print with a delay of one second between each iteration
